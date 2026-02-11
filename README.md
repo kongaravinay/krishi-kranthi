@@ -1,5 +1,11 @@
 # KRISHI KRANTHI - Agricultural E-Commerce Platform
 
+## 🚀 Live Demo
+
+**✅ Live Application:** [https://krishi-kranthi-platform--Nagavinaykongar.replit.app](https://krishi-kranthi-platform--Nagavinaykongar.replit.app)
+
+Explore the fully functional KRISHI KRANTHI platform deployed on Replit!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Flask 2.0+](https://img.shields.io/badge/Flask-2.0+-red.svg)](https://flask.palletsprojects.com/)
