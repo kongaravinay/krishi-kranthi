@@ -314,9 +314,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Contact
 
 Questions or suggestions?
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/nagavinay-kongara/
+- GitHub: https://github.com/kongaravinay
 
 ## Acknowledgments
 
