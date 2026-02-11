@@ -1,0 +1,34 @@
+# KRISHI KRANTHI - Requirements
+# Backend Flask Application Dependencies
+
+# Web Framework
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+
+# Database
+PyMySQL==1.1.0
+sqlalchemy==2.0.21
+
+# Environment and Config
+python-dotenv==1.0.0
+
+# Password Hashing
+Werkzeug==2.3.7
+
+# Data Validation
+WTForms==3.0.1
+
+# Session Management
+Flask-Session==0.5.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code Quality
+flake8==6.0.0
+black==23.9.1
+
+# Development
+ipython==8.14.0
+ipdb==0.13.13
