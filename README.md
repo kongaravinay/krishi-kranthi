@@ -1,8 +1,8 @@
 # KRISHI KRANTHI - Agricultural E-Commerce Platform
 
-## 🚀 Live Demo
+ Live Demo
 
-**✅ Live Application:** [https://krishi-kranthi-platform--Nagavinaykongar.replit.app](https://krishi-kranthi-platform--Nagavinaykongar.replit.app)
+ Live Application: [https://krishi-kranthi-platform--Nagavinaykongar.replit.app](https://krishi-kranthi-platform--Nagavinaykongar.replit.app)
 
 Explore the fully functional KRISHI KRANTHI platform deployed on Replit!
 
